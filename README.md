@@ -30,7 +30,6 @@ This repo demonstrates cross-stack testing and automation:
 
 ## Running Everything
 
-```bash
 # 1) Clone the repo
 git clone https://github.com/youruser/qa-showcase.git
 cd qa-showcase
